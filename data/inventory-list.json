@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Bored Apes",
+    "createdAt": "April 2022",
+    "items": 7500,
+    "floorPrice": 12.57,
+    "volume": 18.34,
+    "holders": 60,
+    "image": "https://i.insider.com/61cc84b94710b10019c77960?width=700"
+  },
+  {
+    "name": "Nakamigos",
+    "createdAt": "May 2022",
+    "items": 8500,
+    "floorPrice": 13.68,
+    "volume": 19.76,
+    "holders": 55,
+    "image": "https://i.insider.com/61cc84b94710b10019c77960?width=700"
+  },
+  {
+    "name": "Tsukimi",
+    "createdAt": "June 2022",
+    "items": 9200,
+    "floorPrice": 11.99,
+    "volume": 21.45,
+    "holders": 58,
+    "image": "https://i.insider.com/61cc84b94710b10019c77960?width=700"
+  },
+  {
+    "name": "Art Blocks",
+    "createdAt": "July 2022",
+    "items": 8000,
+    "floorPrice": 15.32,
+    "volume": 17.89,
+    "holders": 62,
+    "image": "https://i.insider.com/61cc84b94710b10019c77960?width=700"
+  },
+  {
+    "name": "Crypto Punk",
+    "createdAt": "August 2022",
+    "items": 6800,
+    "floorPrice": 14.76,
+    "volume": 16.77,
+    "holders": 53,
+    "image": "https://i.insider.com/61cc84b94710b10019c77960?width=700"
+  },
+  {
+    "name": "Nakamigos",
+    "createdAt": "September 2022",
+    "items": 7200,
+    "floorPrice": 12.88,
+    "volume": 20.12,
+    "holders": 57,
+    "image": "https://i.insider.com/61cc84b94710b10019c77960?width=700"
+  },
+  {
+    "name": "Beeple",
+    "createdAt": "October 2022",
+    "items": 7800,
+    "floorPrice": 14.93,
+    "volume": 18.65,
+    "holders": 61,
+    "image": "https://i.insider.com/61cc84b94710b10019c77960?width=700"
+  }
+]
